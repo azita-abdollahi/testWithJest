@@ -59,7 +59,7 @@ This will run all the tests in the application and provide feedback on whether e
 
 ## Acknowledgements
 
-This application was built by Little B using the following technologies:
+This application was built by using the following technologies:
 
 - Node.js
 - Mongoose
